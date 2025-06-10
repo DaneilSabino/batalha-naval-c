@@ -1,0 +1,9 @@
+
+---
+
+### 📁 Arquivo `.gitignore`
+
+```gitignore
+*.exe
+*.out
+*.o
